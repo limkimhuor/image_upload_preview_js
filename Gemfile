@@ -79,5 +79,7 @@ group :development do
   gem 'web-console'
 end
 
+gem "config"
+gem "slim"
 gem "carrierwave"
 gem "mini_magick"

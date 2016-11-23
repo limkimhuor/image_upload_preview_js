@@ -1,0 +1,20 @@
+{
+  "name": "image_upload_with_preview",
+  "homepage": "https://github.com/limkimhuor/image_upload_preview_js",
+  "authors": [
+    "limkimhuor <kimhuorlim@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
